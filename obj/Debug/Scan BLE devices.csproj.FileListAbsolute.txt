@@ -1,0 +1,11 @@
+D:\c# projects\Scan BLE devices\Scan BLE devices\bin\Debug\Scan BLE devices.exe.config
+D:\c# projects\Scan BLE devices\Scan BLE devices\bin\Debug\Scan BLE devices.exe
+D:\c# projects\Scan BLE devices\Scan BLE devices\bin\Debug\Scan BLE devices.pdb
+D:\c# projects\Scan BLE devices\Scan BLE devices\obj\Debug\Scan BLE devices.csproj.AssemblyReference.cache
+D:\c# projects\Scan BLE devices\Scan BLE devices\obj\Debug\Scan BLE devices.csproj.SuggestedBindingRedirects.cache
+D:\c# projects\Scan BLE devices\Scan BLE devices\obj\Debug\Scan_BLE_devices.Form1.resources
+D:\c# projects\Scan BLE devices\Scan BLE devices\obj\Debug\Scan_BLE_devices.Properties.Resources.resources
+D:\c# projects\Scan BLE devices\Scan BLE devices\obj\Debug\Scan BLE devices.csproj.GenerateResource.cache
+D:\c# projects\Scan BLE devices\Scan BLE devices\obj\Debug\Scan BLE devices.csproj.CoreCompileInputs.cache
+D:\c# projects\Scan BLE devices\Scan BLE devices\obj\Debug\Scan BLE devices.exe
+D:\c# projects\Scan BLE devices\Scan BLE devices\obj\Debug\Scan BLE devices.pdb
